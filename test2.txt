@@ -1,2 +1,3 @@
 this is my second file which need to commit
-thi is 3rd line
+thi is 3rd lin
+ latest code udpated
