@@ -1,2 +1,2 @@
 this is my second file which need to commit
-
+thi is 3rd line
